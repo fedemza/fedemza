@@ -14,9 +14,9 @@
 ## :earth_americas: Countries App
 
 <p align='center'>
-  <a><img src="https://github.com/fedemza/PI-Countries/blob/master/images/Captura%20de%20pantalla%202022-01-28%20105744.png"  width='310' height='155px'></a>
-  <a><img src="https://github.com/fedemza/PI-Countries/blob/master/images/Captura%20de%20pantalla%202022-01-28%20110616.png" width='310' height='155px'></a>
-  <a><img src="https://github.com/fedemza/PI-Countries/blob/master/images/Captura%20de%20pantalla%202022-01-28%20110935.png" width='310px' height='155px'></a>
+  <a><img src="https://github.com/fedemza/PI-Countries/blob/master/images/Captura%20de%20pantalla%202022-01-28%20105744.png"  width='300' height='145px'></a>
+  <a><img src="https://github.com/fedemza/PI-Countries/blob/master/images/Captura%20de%20pantalla%202022-01-28%20110616.png" width='300' height='145px'></a>
+  <a><img src="https://github.com/fedemza/PI-Countries/blob/master/images/Captura%20de%20pantalla%202022-01-28%20110935.png" width='300' height='145px'></a>
 </p>
 
 <h3 align="left">How to reach me:</h3>
