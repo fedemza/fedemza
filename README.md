@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://c.tenor.com/p0kz7NOqxTkAAAAM/kaito-typing.gif"   width="600" height="310" />
 </p>
-<h1 align="center">Hi 👋, I'm Federico</h1>
+<h1 align="center">Hi 👋, I'm Fede</h1>
 <h3 align="center">Full Stack Developer from Argentina  :earth_americas:</h3> 
 
 <h3 align="left"></h3>
