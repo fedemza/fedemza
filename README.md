@@ -19,5 +19,4 @@
   <a><img src="https://github.com/fedemza/PI-Countries/blob/master/images/Captura%20de%20pantalla%202022-01-28%20110935.png" width='300' height='145px'></a>
 </p>
 
-<h3 align="left">How to reach me:</h3>
-<h4 align="left">fedevoloschin@gmail.com</h4>
+
